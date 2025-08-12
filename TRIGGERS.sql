@@ -1,30 +1,6 @@
 USE GESTION_VENTAS;
 GO
 
---1-  --BITACORA----------------- 
---2-  --CANTON------------------- 
---3-  --CATEGORIAS--------------- 
---4-  --DETALLE_VENTA------------ 
---5-  --DIRECCION---------------- 
---6-  --DISTRITO----------------- 
---7-  --EMPRESA------------------ 
---8-  --ESTADO------------------- LISTO
---9-  --MOVIMIENTOS_INVENTARIO--- 
---10- --PAIS--------------------- 
---11- --PRODUCTOS---------------- 
---12- --PROVINCIAS--------------- 
---13- --ROLES-------------------- 
---14- --TIPOS_MOVIMIENTO--------- 
---15- --USUARIOS----------------- LISTO
---16- --VENTAS------------------- 
-
-
-
-
-
-
-
-
 ---TRIGGERS---
 --TRIGGER DE ESTADO--
 --INSERT--
