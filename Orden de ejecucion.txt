@@ -1,0 +1,13 @@
+Estimado profe, si ve esto, este es el orden en el que se deben
+ejecutar los scripts:
+
+DB PROYECTO.sql
+FIDE_AUDITORIA_TB.sql
+FUNCIONES.sql
+VIEWS.sql
+PROCEDIMIENTOS.sql
+TRIGGERS.sql
+INSERTS.sql
+
+
+Gracias.
